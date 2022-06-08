@@ -1,0 +1,39 @@
+/*colors and fonts*/
+body{background: rgb(255,255,255);
+}
+	h1, h2{
+	font-family: roboto;
+}
+		h1{ color: rgb(255,255,50);
+}
+			h2{ color: rgb(255,255,255);
+
+	}
+		a {
+  color: rgb(150, 255, 150);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+	a:hover {
+  color: red;
+  text-decoration: none;
+}
+body{
+<div class="container">
+  <div class="card-white">
+    <!-- introduction -->
+	</div>
+  <div class="card-white">
+		<!-- first section -->
+	</div>
+  <div class="card-white">
+		<!-- second section -->
+  </div>
+  <div class="card-white">
+		<!-- last section -->
+	</div>
+   <div class="card-white">
+		<!-- footer -->
+	</div>
+</div>
+}
